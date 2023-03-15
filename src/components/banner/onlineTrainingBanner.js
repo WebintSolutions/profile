@@ -8,7 +8,7 @@ const OnlineTrainingBanner = () => {
       <section className="bg-[#e5e5e5]">
         <div className="flex lg:flex-row justify-between flex-col-reverse text-gray-900">
           <img
-            src="/onlineTraining.png"
+            src="https://i.ibb.co/s5cm6sY/online-Training.png"
             className="h-[512px] w-[512px] hidden lg:inline"
           />
           <div className="flex flex-col aline-items-center mt-4 w-full">
@@ -30,7 +30,7 @@ const OnlineTrainingBanner = () => {
                   upon the individual performance.
                 </h4>
                 <img
-                  src="/onlineTraining.png"
+                  src="https://i.ibb.co/s5cm6sY/online-Training.png"
                   className="h-fit w-fit inline lg:hidden"
                 />
                 <div className="card bg-base-100 rounded-none p-0 mt-4">

@@ -161,7 +161,7 @@ const jobSupportDetails = {
   FE: [
     {
       id: 1,
-      imgSrc: "/jobSupJavaScript.png",
+      imgSrc: "https://i.ibb.co/xjRD0BL/job-Sup-Java-Script.png",
       title: "Javascript",
       desc: `Accounting Pro and Roomate Pro web app modules helps to plan inventory smartly. 
         The web app Inventory Pro module generates various reports to forcast spendings.`,
@@ -170,7 +170,7 @@ const jobSupportDetails = {
     },
     {
       id: 2,
-      imgSrc: "/jobSupReactJS.png",
+      imgSrc: "https://i.ibb.co/K7ny1RW/job-Sup-React-JS.png",
       title: "React.JS",
       desc: `HostelMate Pro Daily Finance Report allows a night auditor to verify all purchases, 
         deposits and payments from one report. Accounting pro helps to manage daily spendings smartly 
@@ -180,7 +180,7 @@ const jobSupportDetails = {
     },
     {
       id: 3,
-      imgSrc: "/jobSupRedux.png",
+      imgSrc: "https://i.ibb.co/p3wSYhj/job-Sup-Redux.png",
       title: "Redux (State-Management Library)",
       desc: `Manage your housekeeping team and back-of-house operations more effectively. 
               Organize and assign tasks, track room statuses on a real-time feed, and streamline 
@@ -190,7 +190,7 @@ const jobSupportDetails = {
     },
     {
       id: 4,
-      imgSrc: "/jobSupCss3.png",
+      imgSrc: "https://i.ibb.co/WGQxQmC/job-Sup-Css3.png",
       title: "CSS3",
       desc: `Roomate Pro web app provides smart-link for every customer of Hostel, which helps to update their feedback attendence
          and joining community chat room individually.`,
@@ -199,7 +199,7 @@ const jobSupportDetails = {
     },
     {
       id: 5,
-      imgSrc: "/jobSupHtml5.png",
+      imgSrc: "https://i.ibb.co/DVL9Df5/job-Sup-Html5.png",
       title: "CSS3",
       desc: `Roomate Pro web app provides smart-link for every customer of Hostel, which helps to update their feedback attendence
          and joining community chat room individually.`,
@@ -210,7 +210,7 @@ const jobSupportDetails = {
   BE: [
     {
       id: 1,
-      imgSrc: "/jobSupJavaScript.png",
+      imgSrc: "https://i.ibb.co/xjRD0BL/job-Sup-Java-Script.png",
       title: "Javascript",
       desc: `Accounting Pro and Roomate Pro web app modules helps to plan inventory smartly. 
         The web app Inventory Pro module generates various reports to forcast spendings.`,
@@ -219,7 +219,7 @@ const jobSupportDetails = {
     },
     {
       id: 2,
-      imgSrc: "/jobSupReactJS.png",
+      imgSrc: "https://i.ibb.co/K7ny1RW/job-Sup-React-JS.png",
       title: "React.JS",
       desc: `HostelMate Pro Daily Finance Report allows a night auditor to verify all purchases, 
         deposits and payments from one report. Accounting pro helps to manage daily spendings smartly 
@@ -229,7 +229,7 @@ const jobSupportDetails = {
     },
     {
       id: 3,
-      imgSrc: "/jobSupRedux.png",
+      imgSrc: "https://i.ibb.co/p3wSYhj/job-Sup-Redux.png",
       title: "Redux (State-Management Library)",
       desc: `Manage your housekeeping team and back-of-house operations more effectively. 
               Organize and assign tasks, track room statuses on a real-time feed, and streamline 
@@ -239,7 +239,7 @@ const jobSupportDetails = {
     },
     {
       id: 4,
-      imgSrc: "/jobSupCss3.png",
+      imgSrc: "https://i.ibb.co/WGQxQmC/job-Sup-Css3.png",
       title: "CSS3",
       desc: `Roomate Pro web app provides smart-link for every customer of Hostel, which helps to update their feedback attendence
          and joining community chat room individually.`,
@@ -248,7 +248,7 @@ const jobSupportDetails = {
     },
     {
       id: 5,
-      imgSrc: "/jobSupHtml5.png",
+      imgSrc: "https://i.ibb.co/DVL9Df5/job-Sup-Html5.png",
       title: "CSS3",
       desc: `Roomate Pro web app provides smart-link for every customer of Hostel, which helps to update their feedback attendence
          and joining community chat room individually.`,

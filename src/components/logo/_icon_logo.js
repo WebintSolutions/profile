@@ -10,7 +10,7 @@ const WebIntIconLogo = ({classCode="w-fit h-fit"}) => {
   return (
     <>
       <div className="flex justify-center flex-row relative">
-        <img src="/WebIntSolsLogo.png" className={classCode} />
+        <img src="https://i.ibb.co/drw1YfM/Web-Int-Sols-Logo.png" className={classCode} />
       </div>
     </>
   );

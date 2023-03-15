@@ -6,7 +6,7 @@ const ServiceBanner = () => {
       <section className="bg-[#dbce23] block-header-sm-image lg:block-header-lg-image">
         <div className="flex lg:flex-row justify-between flex-col-reverse">
           <img
-            src="/mikec5000.png"
+            src="https://i.ibb.co/S76DJvp/mikec5000.png"
             className="lg:h-[512px] lg:w-[512px] h-full w-full"
           />
           <div className="flex flex-col aline-items-center mt-4 w-full">

@@ -5,7 +5,7 @@ const HostelMateBanner = () => {
   const [features, setFeatures] = useState([
     {
       id: 1,
-      imgSrc: "/hostelMateAccts.png",
+      imgSrc: "https://i.ibb.co/HXZ8NmJ/hostel-Mate-Accts.png",
       title: "Accounting Pro",
       desc: `HostelMate Pro Daily Finance Report allows a night auditor to verify all purchases, 
       deposits and payments from one report. Accounting pro helps to manage daily spendings smartly 
@@ -14,7 +14,7 @@ const HostelMateBanner = () => {
     },
     {
       id: 2,
-      imgSrc: "/hostelMateHKeep.png",
+      imgSrc: "https://i.ibb.co/SnqjmWH/hostel-Mate-HKeep.png",
       title: "Housekeeping Pro",
       desc: `Manage your housekeeping team and back-of-house operations more effectively. 
             Organize and assign tasks, track room statuses on a real-time feed, and streamline 
@@ -23,7 +23,7 @@ const HostelMateBanner = () => {
     },
     {
       id: 3,
-      imgSrc: "/hostelMateRoomate.png",
+      imgSrc: "https://i.ibb.co/307LjWw/hostel-Mate-Roomate.png",
       title: "Roomate Pro",
       desc: `Roomate Pro web app provides smart-link for every customer of Hostel, which helps to update their feedback attendence
        and joining community chat room individually.`,
@@ -31,7 +31,7 @@ const HostelMateBanner = () => {
     },
     {
       id: 4,
-      imgSrc: "/hostelMateInventory.png",
+      imgSrc: "https://i.ibb.co/6JmmC6c/hostel-Mate-Inventory.png",
       title: "Inventory Pro",
       desc: `Accounting Pro and Roomate Pro web app modules helps to plan inventory smartly. 
       The web app Inventory Pro module generates various reports to forcast spendings.`,
@@ -74,7 +74,7 @@ const HostelMateBanner = () => {
         <div className="flex justify-center items-center">
           <img
             alt="Student"
-            src="/taylerHostel.png"
+            src="https://i.ibb.co/zFy8JBQ/tayler-Hostel.png"
             className="object-cover w-fit h-fit lg:w-[512px] lg:h-[512px]"
           />
         </div>
