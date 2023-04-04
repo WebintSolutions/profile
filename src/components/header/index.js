@@ -4,7 +4,7 @@ import WebIntIconLogo from "../logo/_icon_logo";
 const ProfileHeader = () => {
   return (
     <>
-      <header className='shadow-2xl z-0 w-full bg-[#e5e5e5]'>
+      <header className='shadow-2xl z-0 w-full bg-white'>
       <div className="navbar text-neutral-content shadow-2xl p-0">
           <div className="flex flex-row w-full">
             <div className="container">

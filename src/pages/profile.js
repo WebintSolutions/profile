@@ -6,6 +6,7 @@ import HostelMateBanner from '../components/banner/hostelMateBanner';
 import JobSupportBanner from '../components/banner/jobSupportBanner';
 import OnlineTrainingBanner from '../components/banner/onlineTrainingBanner';
 import FooterBanner from '../components/banner/footerBanner';
+import ContactUsBanner from '../components/banner/contactUsBanner';
 
 const ProfilePage = () => {
     console.log('--== I am ProfilePage ==--');
@@ -16,6 +17,7 @@ const ProfilePage = () => {
             <HostelMateBanner />
             <OnlineTrainingBanner />
             <JobSupportBanner />
+            <ContactUsBanner />
             <FooterBanner />
         </div>
     )

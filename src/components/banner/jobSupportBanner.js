@@ -74,7 +74,7 @@ const JobSupportBanner = () => {
                     "Materialize CSS",
                     "TailwindCSS",
                   ].map((entity) => (
-                    <div className="badge badge-info font-medium m-1">
+                    <div className="badge badge-info font-medium m-1" key={entity}>
                       {entity}
                     </div>
                   ))}
@@ -88,7 +88,7 @@ const JobSupportBanner = () => {
                     "MOBX",
                     "Apollo Client GraphQL",
                   ].map((entity) => (
-                    <div className="badge badge-warning font-medium m-1">
+                    <div className="badge badge-warning font-medium m-1" key={entity}>
                       {entity}
                     </div>
                   ))}
@@ -111,7 +111,7 @@ const JobSupportBanner = () => {
                     "Next.JS",
                     "Yoga-GraphQL"
                   ].map((entity) => (
-                    <div className="badge badge-info font-medium m-1">
+                    <div className="badge badge-info font-medium m-1" key={entity}>
                       {entity}
                     </div>
                   ))}
@@ -122,7 +122,7 @@ const JobSupportBanner = () => {
                     "MySQL",
                     "PostgreSQL",
                   ].map((entity) => (
-                    <div className="badge badge-warning font-medium m-1">
+                    <div className="badge badge-warning font-medium m-1" key={entity}>
                       {entity}
                     </div>
                   ))}
@@ -141,7 +141,7 @@ const JobSupportBanner = () => {
             </>
           )}
         </div>
-        <div className="flex justify-center m-4 p-4">
+        {/* <div className="flex justify-center m-4 p-4">
           <a
             href="https://wa.me/+918105555322"
             target="_blank"
@@ -150,7 +150,7 @@ const JobSupportBanner = () => {
             <PhoneIcon className="w-4 h-4 m-1" />
             Reach @ +91 810 555 5322
           </a>
-        </div>
+        </div> */}
         {/* <div className="divider  mb-0"></div> */}
       </section>
     </>
